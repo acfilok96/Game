@@ -1,3 +1,9 @@
+/*
+In this stick game, we can pick 1 or 2 or 3 stick and whoever pick last stick, loss the game.
+
+*/
+
+
 //stick game
 #include <stdio.h>
 int main()
