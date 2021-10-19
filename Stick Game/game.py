@@ -1,3 +1,8 @@
+"""
+In this game, we enter some number of stick, one of person and computer can start the game.
+So, one can choose either 1 or 2 or 3 stick and last one who pick the sticks, win the game.
+"""
+
 import random
 n=int(input("enter number (>4): "))
 kk=n
